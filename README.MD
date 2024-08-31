@@ -28,4 +28,4 @@ The MNIST dataset consists of 70,000 images of handwritten digits (0-9), each 28
 You can install the required packages using:
 
 ```bash
-pip install numpy
+pip install -r requirements.txt
